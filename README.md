@@ -1,4 +1,4 @@
-# A-Saturday-Night
+# Sanctum
 
 A WebVR dancing experience using [A-Frame](http://aframe.io) by [Mozilla VR](http://mozvr.com). 
 
